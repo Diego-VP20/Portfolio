@@ -1,0 +1,6 @@
+﻿body{
+    background-color: rgba(var(--bs-dark-rgb));
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-image: url("../images/background-img.jpg");
+}
