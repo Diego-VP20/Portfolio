@@ -4,3 +4,9 @@
     background-repeat:no-repeat;
     background-image: url("../images/background-img.jpg");
 }
+
+.dropdown-menu-dark{
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: 0 0 10px #000000;
+}
